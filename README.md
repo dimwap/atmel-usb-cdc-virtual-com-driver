@@ -2,6 +2,8 @@
 
 These instructions explain how to self-sign Atmel USB CDC Virtual COM driver for use on Windows 8. Windows 10 comes with built-in support for virtual serial ports - no driver installation is required.
 
+Raspberi PI Pico via USB needs driver CDC (Win7 x64).
+
 ## Instructions to self-sign
 
 In Windows Driver Kit 7.1, all commands are located under bin\amd64, except if indicated otherwise below. In Windows Driver Kit 8.1, all commands are located under bin\x64.
