@@ -2,7 +2,8 @@
 
 These instructions explain how to self-sign Atmel USB CDC Virtual COM driver for use on Windows 8. Windows 10 comes with built-in support for virtual serial ports - no driver installation is required.
 
-Raspberi PI Pico via USB needs driver CDC (Win7 x64).
+Raspberi PI Pico via USB needs driver CDC (Win7 x64). Without it, Fonny won't connect.
+From there https://forums.raspberrypi.com/viewtopic.php?f=146&t=300053
 
 ## Instructions to self-sign
 
